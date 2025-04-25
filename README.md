@@ -12,9 +12,9 @@ I’m a cybersecurity enthusiast and penetration tester focused on offensive sec
 
 ## 🔗 Quick Links
 
-- 📄 [Download Resume (PDF)](./Akshatha K – Cybersecurity Resume.pdf)
+- 📄 [Download Resume (PDF)](Akshatha%20K%20%E2%80%93%20Cybersecurity%20Resume.pdf)
 - 🛡️ [GitHub Profile](https://github.com/imakshathagowda)
-- 🌐 [Cybersecurity Portfolio (GitHub Pages)](https://imakshathagowda.github.io) 
+- 🌐 [Cybersecurity Portfolio](https://imakshathagowda.github.io) 
 
 ---
 
